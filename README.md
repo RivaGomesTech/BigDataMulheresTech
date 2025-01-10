@@ -1,2 +1,2 @@
-# BigDataMulheresTech
-Esse repositório é para o material das aulas de Big Data
+# MulheresTechGourmet
+Repositório para postagem de material das aulas da turma 1 de Análise de Dados - Big Data
